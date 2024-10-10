@@ -1,6 +1,10 @@
-# firstapp
+# FirstAppFlutter
 
-A new Flutter project.
+Projeto de criação de primeiro aplicativo utilizando o framework Flutter, realizado para entrega de desafio de projeto do módulo 1 da formação Flutter Specialist oferecida pela DIO (Digital Innovation One).
+
+## Tecnologias Utilizadas
+
+- Flutter: Framework de desenvolvimento de interface de usuário (UI) multiplataforma.
 
 ## Getting Started
 
