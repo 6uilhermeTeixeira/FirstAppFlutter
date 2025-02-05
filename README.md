@@ -5,6 +5,7 @@ Projeto de criação de primeiro aplicativo utilizando o framework Flutter, real
 ## Tecnologias Utilizadas
 
 - Flutter: Framework de desenvolvimento de interface de usuário (UI) multiplataforma.
+- Android Studio: É um ambiente de desenvolvimento integrado (IDE) para desenvolver para o sistema Android.
 
 ## Getting Started
 
