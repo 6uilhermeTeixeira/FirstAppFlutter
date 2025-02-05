@@ -1,4 +1,4 @@
-# FirstAppFlutter
+# First App Flutter
 
 Projeto de criação de primeiro aplicativo utilizando o framework Flutter, realizado para entrega de desafio de projeto do módulo 1 da formação Flutter Specialist oferecida pela DIO (Digital Innovation One).
 
